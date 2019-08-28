@@ -2,3 +2,5 @@
 dist
 /ios
 /andriod
+node_modules
+git
